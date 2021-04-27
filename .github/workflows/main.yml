@@ -23,4 +23,4 @@ jobs:
         sudo pip3 install wheel
         sudo -H pip3 install --ignore-installed PyYAML 
         sudo pip3 install pybadges 
-        sudo python3 /opt/starter.py  ${GITHUB_ACTOR} ${GITHUB_REPOSITORY}
+        sudo python3 /opt/starter.py  ${GITHUB_ACTOR} ${GITHUB_REPOSITORY} /opt/
