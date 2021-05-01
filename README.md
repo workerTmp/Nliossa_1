@@ -12,4 +12,5 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot/fuzz_message_id.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot/fuzz_test_quoted_printable.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/outTMP/notFind.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot1/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot1/notFind.svg)](https://github.com/)
