@@ -1,3 +1,4 @@
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/upb/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot/fuzz_test_mail_html2text.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot/fuzz_test_rfc822_parser.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot/fuzz_qp_encoder.svg)](https://github.com/)
