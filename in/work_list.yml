@@ -1,7 +1,7 @@
-'-1': 'null'
-'0': 'null'
-'1':
+'-1':
 - upb*llvm-symbolizer
+'0': 'null'
+'1': 'null'
 '2':
 - upb*fuzz_parsenew
 '3': 'null'
