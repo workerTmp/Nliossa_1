@@ -17,5 +17,9 @@ docs/medovecot/llvm-symbolizer.svg
 docs/medovecot/fuzz_test_rfc822_parser.svg
 docs/medovecot/fuzz_test_rfc2231_parser.svg
 docs/nettle/notFind.svg
+docs/s2opc/parse_tcp_uri_fuzzer.svg
 docs/s2opc/notFind.svg
+docs/s2opc/decode_fuzzer.svg
+docs/s2opc/llvm-symbolizer.svg
+docs/s2opc/server_request_fuzzer.svg
 docs/outTMP/notFind.svg
