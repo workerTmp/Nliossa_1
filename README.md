@@ -1,3 +1,4 @@
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/c-blosc2/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot1/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/medovecot1/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/nettle/notFind.svg)](https://github.com/)
