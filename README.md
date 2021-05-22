@@ -1,3 +1,4 @@
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/tmux/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/s2opc/parse_tcp_uri_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/s2opc/decode_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_1/s2opc/server_request_fuzzer.svg)](https://github.com/)
