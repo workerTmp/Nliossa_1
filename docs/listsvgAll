@@ -1,3 +1,5 @@
+docs/tmux/input-fuzzer.svg
+docs/tmux/llvm-symbolizer.svg
 docs/tmux/notFind.svg
 docs/s2opc/parse_tcp_uri_fuzzer.svg
 docs/s2opc/decode_fuzzer.svg
