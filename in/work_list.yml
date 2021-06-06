@@ -1,7 +1,7 @@
-'-1': 'null'
-'0': 'null'
-'1':
+'-1':
 - s2opc*llvm-symbolizer
+'0': 'null'
+'1': 'null'
 '2':
 - s2opc*server_request_fuzzer
 - s2opc*decode_fuzzer
