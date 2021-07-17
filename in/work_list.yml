@@ -1,9 +1,13 @@
 '-1': 'null'
-'0':
-- s2opc
-'1': 'null'
+'0': 'null'
+'1':
+- s2opc*llvm-symbolizer
+- s2opc*server_request_fuzzer
+- s2opc*decode_fuzzer
+- s2opc*parse_tcp_uri_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5': 'null'
-'6': 'null'
+'6':
+- s2opc
