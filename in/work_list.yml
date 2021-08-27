@@ -1,8 +1,8 @@
 '-1':
 - tmux*llvm-symbolizer
-'0': 'null'
-'1':
 - tmux*input-fuzzer
+'0': 'null'
+'1': 'null'
 '2': 'null'
 '3': 'null'
 '4': 'null'
